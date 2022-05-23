@@ -1,0 +1,16 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+setprop net.dns1=209.244.0.3
+setprop net.dns2=209.244.0.4
+setprop net.eth0.dns1=209.244.0.3
+setprop net.eth0.dns2=209.244.0.4 
+setprop net.rmnet0.dns1=209.244.0.3
+setprop net.rmnet0.dns2=209.244.0.4
+setprop dhcp.tiwlan0.dns1=209.244.0.3
+setprop dhcp.tiwlan0.dns2=209.244.0.4
+setprop net.ppp0.dns1=209.244.0.3
+setprop net.ppp0.dns2=209.244.0.4
+setprop net.pdpbr1.dns1=209.244.0.3
+setprop net.pdpbr1.dns2=209.244.0.4
