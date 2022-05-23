@@ -6,15 +6,12 @@
 ## Level3 DNS Servers:
 * 209.244.0.3
 * 209.244.0.4
-<br />
 
 ## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
-<br />
 
 ## Requirements:
 Magisk installed (v17+)
-<br />
 
 ## Changelog:
 v1 (Initial Release)
